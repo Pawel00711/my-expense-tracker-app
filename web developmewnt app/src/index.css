@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f7f9fa;
+  color: #333333;
+  line-height: 1.4;
+  padding: 20px;
+}
